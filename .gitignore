@@ -3,3 +3,7 @@
 ################################################################################
 
 *.lock
+/webticketsfabian/.vs/webticketsfabian/v16/Server/sqlite3/storage.ide
+/webticketsfabian/.vs/webticketsfabian/config
+/webticketsfabian/.vs/webticketsfabian/v16/Server/sqlite3/storage.ide-shm
+*.ide-wal
